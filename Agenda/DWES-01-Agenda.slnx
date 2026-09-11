@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DWES-01-Agenda.Test/DWES-01-Agenda.Test.csproj" />
+  <Project Path="DWES-01-Agenda/DWES-01-Agenda.csproj" />
+</Solution>

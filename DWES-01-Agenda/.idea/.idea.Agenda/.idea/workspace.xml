@@ -14,32 +14,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e842e86d-f979-4ab9-b54b-778d2517b73a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Agenda/Models/Agenda.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Agenda/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Agenda/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Agenda.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Agenda.Test.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Agenda.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Agenda.Test.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/Debug/net10.0/Agenda.Test.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda.Test/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/Agenda.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/Agenda.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Agenda.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Agenda.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Agenda.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Agenda.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/Debug/net10.0/Agenda.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Agenda/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Agenda/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="e842e86d-f979-4ab9-b54b-778d2517b73a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

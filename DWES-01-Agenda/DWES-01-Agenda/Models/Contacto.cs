@@ -1,6 +1,9 @@
 ﻿namespace DWES;
 
-public record Agenda {
+/// <summary>
+/// Representa unb contacto de la agenda dentro del sistema.
+/// </summary>
+public record Contacto {
     public int Id {get; init;}
     public string Alias { get; init; } = string.Empty;
     public string Nombre {get; init;} =  string.Empty;

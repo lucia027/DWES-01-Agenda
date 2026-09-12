@@ -291,6 +291,7 @@ var assemblies = [
     "name": "DWES-01-Agenda",
     "classes": [
       { "name": "DWES.CacheLru\u003CT1, T2\u003E", "rp": "DWES_01_Agenda_CacheLru_2.html", "cl": 65, "ucl": 0, "cal": 65, "tl": 108, "cb": 10, "tb": 10, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "DWES.Configuracion", "rp": "DWES_01_Agenda_Configuracion.html", "cl": 15, "ucl": 0, "cal": 15, "tl": 31, "cb": 2, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "DWES.Contacto", "rp": "DWES_01_Agenda_Contacto.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "Program", "rp": "DWES_01_Agenda_Program.html", "cl": 0, "ucl": 1, "cal": 1, "tl": 3, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},

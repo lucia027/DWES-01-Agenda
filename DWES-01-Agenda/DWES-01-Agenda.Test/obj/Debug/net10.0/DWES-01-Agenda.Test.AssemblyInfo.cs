@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DWES-01-Agenda.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e09558fa4c8e59e8ac9c2881fc65bae27781527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f16259997bc24abf03f0a01697d309251bcdaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DWES-01-Agenda.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DWES-01-Agenda.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

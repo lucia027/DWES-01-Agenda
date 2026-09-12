@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
       "projectName": "DWES-01-Agenda.Test",
-      "projectPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
+      "projectPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
       "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda.Test\\obj\\",
+      "outputPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj": {}
+    "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj": {
+    "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
+        "projectUniqueName": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
         "projectName": "DWES-01-Agenda",
-        "projectPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
+        "projectPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
         "packagesPath": "C:\\Users\\Lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\Agenda\\Agenda\\DWES-01-Agenda\\obj\\",
+        "outputPath": "C:\\Users\\Lucia\\Desktop\\Programming\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucia\\AppData\\Roaming\\NuGet\\NuGet.Config"

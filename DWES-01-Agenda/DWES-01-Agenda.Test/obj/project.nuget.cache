@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "u/6mlBoQv9c=",
+  "dgSpecHash": "BzBiCojOMRA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lu\\.nuget\\packages\\coverlet.collector\\10.0.1\\coverlet.collector.10.0.1.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\coverlet.msbuild\\10.0.1\\coverlet.msbuild.10.0.1.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\fluentassertions\\8.10.0\\fluentassertions.8.10.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.codecoverage\\18.10.0\\microsoft.codecoverage.18.10.0.nupkg.sha512",

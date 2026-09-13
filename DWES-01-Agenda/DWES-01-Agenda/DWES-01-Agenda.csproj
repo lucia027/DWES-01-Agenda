@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="CSharpFunctionalExtensions" Version="3.7.0" />
       <PackageReference Include="FluentAssertions" Version="8.10.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.12" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="10.0.8" />
@@ -30,10 +31,6 @@
         <None Update="appsettings.json">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Repository\" />
     </ItemGroup>
 
 </Project>

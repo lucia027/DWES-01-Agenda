@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3idP0PHLa78=",
+  "dgSpecHash": "fQCx+mDeKrQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lu\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\fluentassertions\\8.10.0\\fluentassertions.8.10.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.codecoverage\\18.10.0\\microsoft.codecoverage.18.10.0.nupkg.sha512",

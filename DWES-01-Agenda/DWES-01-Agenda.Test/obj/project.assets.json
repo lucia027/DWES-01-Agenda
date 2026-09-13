@@ -19,6 +19,19 @@
           "buildMultiTargeting/coverlet.msbuild.targets": {}
         }
       },
+      "CSharpFunctionalExtensions/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CSharpFunctionalExtensions.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CSharpFunctionalExtensions.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "FluentAssertions/8.10.0": {
         "type": "package",
         "compile": {
@@ -1412,6 +1425,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "CSharpFunctionalExtensions": "3.7.0",
           "FluentAssertions": "8.10.0",
           "Microsoft.EntityFrameworkCore": "10.0.12",
           "Microsoft.EntityFrameworkCore.InMemory": "10.0.8",
@@ -1710,6 +1724,26 @@
         "tasks/netstandard2.0/coverlet.msbuild.tasks.deps.json",
         "tasks/netstandard2.0/coverlet.msbuild.tasks.dll",
         "tasks/netstandard2.0/coverlet.msbuild.tasks.pdb"
+      ]
+    },
+    "CSharpFunctionalExtensions/3.7.0": {
+      "sha512": "eMZp8tc88O96eEFutiIskF3LE8lFY3fjbNRGfNa1ca0CD9sB8A00r5ltyYDih/7UFdJdVbhVq7tGeHI8xj6DlQ==",
+      "type": "package",
+      "path": "csharpfunctionalextensions/3.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csharpfunctionalextensions.3.7.0.nupkg.sha512",
+        "csharpfunctionalextensions.nuspec",
+        "lib/net6.0/CSharpFunctionalExtensions.dll",
+        "lib/net6.0/CSharpFunctionalExtensions.pdb",
+        "lib/net6.0/CSharpFunctionalExtensions.xml",
+        "lib/net8.0/CSharpFunctionalExtensions.dll",
+        "lib/net8.0/CSharpFunctionalExtensions.pdb",
+        "lib/net8.0/CSharpFunctionalExtensions.xml",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.dll",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.pdb",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.xml"
       ]
     },
     "FluentAssertions/8.10.0": {
@@ -3488,6 +3522,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "CSharpFunctionalExtensions >= 3.7.0",
       "DWES-01-Agenda >= 1.0.0",
       "FluentAssertions >= 8.10.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 10.0.8",
@@ -3552,6 +3587,10 @@
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "CSharpFunctionalExtensions": {
+            "target": "Package",
+            "version": "[3.7.0, )"
+          },
           "FluentAssertions": {
             "target": "Package",
             "version": "[8.10.0, )"

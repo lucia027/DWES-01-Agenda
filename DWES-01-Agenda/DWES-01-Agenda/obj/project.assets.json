@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net10.0": {
+      "CSharpFunctionalExtensions/3.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CSharpFunctionalExtensions.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CSharpFunctionalExtensions.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "FluentAssertions/8.10.0": {
         "type": "package",
         "compile": {
@@ -1394,6 +1407,26 @@
     }
   },
   "libraries": {
+    "CSharpFunctionalExtensions/3.7.0": {
+      "sha512": "eMZp8tc88O96eEFutiIskF3LE8lFY3fjbNRGfNa1ca0CD9sB8A00r5ltyYDih/7UFdJdVbhVq7tGeHI8xj6DlQ==",
+      "type": "package",
+      "path": "csharpfunctionalextensions/3.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "csharpfunctionalextensions.3.7.0.nupkg.sha512",
+        "csharpfunctionalextensions.nuspec",
+        "lib/net6.0/CSharpFunctionalExtensions.dll",
+        "lib/net6.0/CSharpFunctionalExtensions.pdb",
+        "lib/net6.0/CSharpFunctionalExtensions.xml",
+        "lib/net8.0/CSharpFunctionalExtensions.dll",
+        "lib/net8.0/CSharpFunctionalExtensions.pdb",
+        "lib/net8.0/CSharpFunctionalExtensions.xml",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.dll",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.pdb",
+        "lib/netstandard2.0/CSharpFunctionalExtensions.xml"
+      ]
+    },
     "FluentAssertions/8.10.0": {
       "sha512": "yGvv+xp0gHFgGwhQcGoDdKIrhLhPi3zYYWWLLHPMctr+G6PWD7QH8L4wqoa5WRZquPbfSV/cP1MraI7ppAHrWw==",
       "type": "package",
@@ -3165,6 +3198,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "CSharpFunctionalExtensions >= 3.7.0",
       "FluentAssertions >= 8.10.0",
       "Microsoft.EntityFrameworkCore >= 10.0.12",
       "Microsoft.EntityFrameworkCore.InMemory >= 10.0.8",
@@ -3223,6 +3257,10 @@
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "CSharpFunctionalExtensions": {
+            "target": "Package",
+            "version": "[3.7.0, )"
+          },
           "FluentAssertions": {
             "target": "Package",
             "version": "[8.10.0, )"

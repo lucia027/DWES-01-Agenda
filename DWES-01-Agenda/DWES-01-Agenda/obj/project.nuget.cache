@@ -1,23 +1,41 @@
 {
   "version": 2,
-  "dgSpecHash": "O6RkdsX3Nmc=",
+  "dgSpecHash": "3idP0PHLa78=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lu\\.nuget\\packages\\fluentassertions\\8.10.0\\fluentassertions.8.10.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.codecoverage\\18.10.0\\microsoft.codecoverage.18.10.0.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.8\\microsoft.data.sqlite.core.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.12\\microsoft.entityframeworkcore.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.12\\microsoft.entityframeworkcore.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.12\\microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.8\\microsoft.entityframeworkcore.inmemory.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.8\\microsoft.entityframeworkcore.relational.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.8\\microsoft.entityframeworkcore.sqlite.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.8\\microsoft.entityframeworkcore.sqlite.core.10.0.8.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver.abstractions\\11.0.0-rc.1.26425.128\\microsoft.entityframeworkcore.sqlserver.abstractions.11.0.0-rc.1.26425.128.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.12\\microsoft.extensions.caching.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.12\\microsoft.extensions.caching.memory.10.0.12.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0-rc.1.26425.128\\microsoft.extensions.configuration.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0-rc.1.26425.128\\microsoft.extensions.configuration.abstractions.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\11.0.0-rc.1.26425.128\\microsoft.extensions.configuration.binder.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\11.0.0-rc.1.26425.128\\microsoft.extensions.configuration.fileextensions.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.configuration.json\\11.0.0-rc.1.26425.128\\microsoft.extensions.configuration.json.11.0.0-rc.1.26425.128.nupkg.sha512",
-    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.8\\microsoft.extensions.dependencymodel.10.0.8.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\11.0.0-rc.1.26425.128\\microsoft.extensions.fileproviders.abstractions.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\11.0.0-rc.1.26425.128\\microsoft.extensions.fileproviders.physical.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\11.0.0-rc.1.26425.128\\microsoft.extensions.filesystemglobbing.11.0.0-rc.1.26425.128.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.logging\\10.0.12\\microsoft.extensions.logging.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.12\\microsoft.extensions.logging.abstractions.10.0.12.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.options\\10.0.12\\microsoft.extensions.options.10.0.12.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-rc.1.26425.128\\microsoft.extensions.primitives.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.net.test.sdk\\18.10.0\\microsoft.net.test.sdk.18.10.0.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\microsoft.sqlserver.types\\170.1000.7\\microsoft.sqlserver.types.170.1000.7.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\2.3.3\\microsoft.testing.extensions.telemetry.2.3.3.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\2.3.3\\microsoft.testing.extensions.trxreport.abstractions.2.3.3.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\2.3.3\\microsoft.testing.extensions.vstestbridge.2.3.3.nupkg.sha512",
@@ -30,9 +48,26 @@
     "C:\\Users\\Lu\\.nuget\\packages\\nunit3testadapter\\6.3.0\\nunit3testadapter.6.3.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\serilog\\4.4.1-dev-02443\\serilog.4.4.1-dev-02443.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.io.pipelines\\11.0.0-rc.1.26425.128\\system.io.pipelines.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.text.encodings.web\\11.0.0-rc.1.26425.128\\system.text.encodings.web.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.text.json\\11.0.0-rc.1.26425.128\\system.text.json.11.0.0-rc.1.26425.128.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"SQLitePCLRaw.lib.e_sqlite3\" 2.1.11 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

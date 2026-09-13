@@ -290,9 +290,12 @@ var assemblies = [
   {
     "name": "DWES-01-Agenda",
     "classes": [
+      { "name": "DWES.AppDbContext", "rp": "DWES_01_Agenda_AppDbContext.html", "cl": 0, "ucl": 10, "cal": 10, "tl": 25, "cb": 0, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "DWES.CacheLru\u003CT1, T2\u003E", "rp": "DWES_01_Agenda_CacheLru_2.html", "cl": 65, "ucl": 0, "cal": 65, "tl": 108, "cb": 10, "tb": 10, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "DWES.Configuracion", "rp": "DWES_01_Agenda_Configuracion.html", "cl": 15, "ucl": 0, "cal": 15, "tl": 31, "cb": 2, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "DWES.Contacto", "rp": "DWES_01_Agenda_Contacto.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "DWES.Contacto", "rp": "DWES_01_Agenda_Contacto.html", "cl": 9, "ucl": 0, "cal": 9, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "DWES.ContactoEntity", "rp": "DWES_01_Agenda_ContactoEntity.html", "cl": 9, "ucl": 0, "cal": 9, "tl": 45, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "DWES.ContactoMapper", "rp": "DWES_01_Agenda_ContactoMapper.html", "cl": 29, "ucl": 0, "cal": 29, "tl": 56, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "Program", "rp": "DWES_01_Agenda_Program.html", "cl": 0, "ucl": 1, "cal": 1, "tl": 3, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];

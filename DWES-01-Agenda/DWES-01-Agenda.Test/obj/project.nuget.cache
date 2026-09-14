@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BzBiCojOMRA=",
+  "dgSpecHash": "GZtJxkcqcJU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lu\\Desktop\\Git-Repository\\DWES-01-Agenda\\DWES-01-Agenda\\DWES-01-Agenda.Test\\DWES-01-Agenda.Test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lu\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\coverlet.collector\\10.0.1\\coverlet.collector.10.0.1.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\coverlet.msbuild\\10.0.1\\coverlet.msbuild.10.0.1.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\csharpfunctionalextensions\\3.7.0\\csharpfunctionalextensions.3.7.0.nupkg.sha512",
@@ -46,6 +47,7 @@
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testing.platform.msbuild\\2.3.3\\microsoft.testing.platform.msbuild.2.3.3.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.10.0\\microsoft.testplatform.objectmodel.18.10.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\microsoft.testplatform.testhost\\18.10.0\\microsoft.testplatform.testhost.18.10.0.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\nunit\\5.0.0-beta.1\\nunit.5.0.0-beta.1.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\nunit.analyzers\\4.15.0\\nunit.analyzers.4.15.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\nunit3testadapter\\6.3.0\\nunit3testadapter.6.3.0.nupkg.sha512",
@@ -55,6 +57,7 @@
     "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Lu\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.io.pipelines\\11.0.0-rc.1.26425.128\\system.io.pipelines.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.text.encodings.web\\11.0.0-rc.1.26425.128\\system.text.encodings.web.11.0.0-rc.1.26425.128.nupkg.sha512",
     "C:\\Users\\Lu\\.nuget\\packages\\system.text.json\\11.0.0-rc.1.26425.128\\system.text.json.11.0.0-rc.1.26425.128.nupkg.sha512"

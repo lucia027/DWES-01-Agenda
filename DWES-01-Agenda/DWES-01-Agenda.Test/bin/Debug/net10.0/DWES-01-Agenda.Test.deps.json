@@ -17,6 +17,7 @@
           "Microsoft.Extensions.Configuration.Binder": "11.0.0-rc.1.26425.128",
           "Microsoft.Extensions.Configuration.Json": "11.0.0-rc.1.26425.128",
           "Microsoft.NET.Test.Sdk": "18.10.0",
+          "Moq": "4.20.72",
           "NUnit": "5.0.0-beta.1",
           "NUnit3TestAdapter": "6.3.0",
           "Serilog": "4.4.1-dev-02443",
@@ -24,6 +25,17 @@
         },
         "runtime": {
           "DWES-01-Agenda.Test.dll": {}
+        }
+      },
+      "Castle.Core/5.1.1": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.1.0"
+          }
         }
       },
       "CSharpFunctionalExtensions/3.7.0": {
@@ -887,6 +899,17 @@
           }
         }
       },
+      "Moq/4.20.72": {
+        "dependencies": {
+          "Castle.Core": "5.1.1"
+        },
+        "runtime": {
+          "lib/net6.0/Moq.dll": {
+            "assemblyVersion": "4.20.72.0",
+            "fileVersion": "4.20.72.0"
+          }
+        }
+      },
       "NUnit/5.0.0-beta.1": {
         "runtime": {
           "lib/net10.0/nunit.framework.dll": {
@@ -1075,6 +1098,28 @@
           }
         }
       },
+      "System.Diagnostics.EventLog/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
       "System.IO.Pipelines/11.0.0-rc.1.26425.128": {
         "runtime": {
           "lib/net10.0/System.IO.Pipelines.dll": {
@@ -1122,6 +1167,7 @@
           "Microsoft.Extensions.Configuration.Binder": "11.0.0-rc.1.26425.128",
           "Microsoft.Extensions.Configuration.Json": "11.0.0-rc.1.26425.128",
           "Microsoft.NET.Test.Sdk": "18.10.0",
+          "Moq": "4.20.72",
           "NUnit": "5.0.0-beta.1",
           "NUnit3TestAdapter": "6.3.0",
           "Serilog": "4.4.1-dev-02443",
@@ -1141,6 +1187,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Castle.Core/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
+      "path": "castle.core/5.1.1",
+      "hashPath": "castle.core.5.1.1.nupkg.sha512"
     },
     "CSharpFunctionalExtensions/3.7.0": {
       "type": "package",
@@ -1415,6 +1468,13 @@
       "path": "microsoft.testplatform.testhost/18.10.0",
       "hashPath": "microsoft.testplatform.testhost.18.10.0.nupkg.sha512"
     },
+    "Moq/4.20.72": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EA55cjyNn8eTNWrgrdZJH5QLFp2L43oxl1tlkoYUKIE9pRwL784OWiTXeCV5ApS+AMYEAlt7Fo03A2XfouvHmQ==",
+      "path": "moq/4.20.72",
+      "hashPath": "moq.4.20.72.nupkg.sha512"
+    },
     "NUnit/5.0.0-beta.1": {
       "type": "package",
       "serviceable": true,
@@ -1470,6 +1530,13 @@
       "sha512": "sha512-Y/0ZkR+r0Cg3DQFuCl1RBnv/tmxpIZRU3HUvelPw6MVaKHwYYR8YNvgs0vuNuXCMvlyJ+Fh88U1D4tah1tt6qw==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.11",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "hashPath": "system.diagnostics.eventlog.6.0.0.nupkg.sha512"
     },
     "System.IO.Pipelines/11.0.0-rc.1.26425.128": {
       "type": "package",

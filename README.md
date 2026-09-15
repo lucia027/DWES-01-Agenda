@@ -233,7 +233,6 @@ Ejemplo:
     "ConnectionString": "Data Source=data/DWES-01-Agenda.db",
     "DropData": true,
     "SeedData": true,
-    "UseLogicalDelete": false
   }
 }
 ```
@@ -249,7 +248,6 @@ Desde este archivo se pueden configurar aspectos como:
 - Cadena de conexión de SQLite.
 - Eliminación de la base de datos al iniciar.
 - Carga automática de datos iniciales.
-- Uso del borrado lógico.
 
 La clase `Configuracion` centraliza el acceso a estos valores.
 

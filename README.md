@@ -51,7 +51,7 @@ Program
    ▼
 ContactoService
    │
-   ├── CacheLru
+   ├──── CacheLru
    │
    ▼
 ContactosEfcRepository
@@ -185,7 +185,6 @@ Para el sistema de logging se utiliza **Serilog**.
 
 Serilog permite registrar información con diferentes niveles:
 
-- `Verbose`
 - `Debug`
 - `Information`
 - `Warning`
@@ -283,7 +282,7 @@ y evita tener valores como rutas, tamaños o cadenas de conexión escritos direc
 
 ## 🌐 Simulación del protocolo HTTP
 
-Aunque el proyecto se ejecuta por consola, el `Program` está planteado para practicar la lógica básica de una API.
+Aunque el proyecto se ejecuta por consola, el `Program` está planteado para practicar una logica basica inspirada en el protocolo http.
 
 Por ejemplo:
 

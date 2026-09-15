@@ -302,7 +302,7 @@ var assemblies = [
       { "name": "DWES.DomainError", "rp": "DWES_01_Agenda_DomainError.html", "cl": 1, "ucl": 0, "cal": 1, "tl": 7, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "DWES.RepositoryError", "rp": "DWES_01_Agenda_RepositoryError.html", "cl": 6, "ucl": 2, "cal": 8, "tl": 41, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "DWES.RepositoryErrors", "rp": "DWES_01_Agenda_RepositoryErrors.html", "cl": 15, "ucl": 0, "cal": 15, "tl": 41, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "DWES_01_Agenda_Program.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 2, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "Program", "rp": "DWES_01_Agenda_Program.html", "cl": 0, "ucl": 149, "cal": 149, "tl": 305, "cb": 0, "tb": 43, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 
@@ -311,9 +311,17 @@ var metrics = [{ "name": "Crap Score", "abbreviation": "crp", "explanationUrl": 
 var historicCoverageExecutionTimes = [];
 
 var riskHotspotMetrics = [
+      { "name": "Crap Score", "explanationUrl": "https://googletesting.blogspot.de/2011/02/this-code-is-crap.html" },
+      { "name": "Cyclomatic complexity", "explanationUrl": "https://en.wikipedia.org/wiki/Cyclomatic_complexity" },
 ];
 
 var riskHotspots = [
+  {
+    "assembly": "DWES-01-Agenda", "class": "Program", "reportPath": "DWES_01_Agenda_Program.html", "methodName": "Ejecutar()", "methodShortName": "Ejecutar()", "fileIndex": 0, "line": 88,
+    "metrics": [
+      { "value": 756, "exceeded": true },
+      { "value": 27, "exceeded": true },
+    ]},
 ];
 
 var branchCoverageAvailable = true;

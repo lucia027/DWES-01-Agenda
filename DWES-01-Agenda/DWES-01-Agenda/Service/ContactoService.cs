@@ -2,6 +2,11 @@
 
 namespace DWES;
 
+/// <summary>
+/// Servicio central que gestiona las operaciones de contactos.
+/// </summary>
+/// <param name="repository">Repositorio de contactos.</param>
+/// <param name="cache">CAche Lru.</param>
 public class ContactoService(
         IContactoRepository repository,
         ICache<int, Contacto> cache

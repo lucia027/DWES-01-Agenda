@@ -2,6 +2,9 @@
 
 namespace DWES;
 
+/// <summary>
+/// Interfaz que define los metodos del servicio.
+/// </summary>
 public interface IContactoService {
 
     /// <summary>

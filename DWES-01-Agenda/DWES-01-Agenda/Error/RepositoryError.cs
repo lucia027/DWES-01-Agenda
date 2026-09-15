@@ -1,5 +1,9 @@
 ﻿namespace DWES;
 
+/// <summary>
+/// Clase especifica para los errores de los contactos en el repositorio.
+/// </summary>
+/// <param name="Message">Mensaje de error.</param>
 public abstract record RepositoryError(string Message) : DomainError(Message) {
     public sealed record IdNotFound(int id)
         : RepositoryError($"No se ha podido encontrar el contacto con el id: {id}");
